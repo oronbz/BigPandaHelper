@@ -1,3 +1,3 @@
 BigPandaHelper
 ==============
-This is a wrapper for BigPanda REST API
+This is a .NET class library wrapper for BigPanda REST API
