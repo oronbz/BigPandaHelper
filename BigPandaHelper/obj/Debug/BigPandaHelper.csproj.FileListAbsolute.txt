@@ -1,0 +1,8 @@
+c:\users\oron\documents\visual studio 2013\Projects\BigPandaHelper\BigPandaHelper\bin\Debug\BigPandaHelper.dll
+c:\users\oron\documents\visual studio 2013\Projects\BigPandaHelper\BigPandaHelper\bin\Debug\BigPandaHelper.pdb
+c:\users\oron\documents\visual studio 2013\Projects\BigPandaHelper\BigPandaHelper\bin\Debug\Newtonsoft.Json.dll
+c:\users\oron\documents\visual studio 2013\Projects\BigPandaHelper\BigPandaHelper\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\oron\documents\visual studio 2013\Projects\BigPandaHelper\BigPandaHelper\bin\Debug\Newtonsoft.Json.xml
+c:\users\oron\documents\visual studio 2013\Projects\BigPandaHelper\BigPandaHelper\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\oron\documents\visual studio 2013\Projects\BigPandaHelper\BigPandaHelper\obj\Debug\BigPandaHelper.dll
+c:\users\oron\documents\visual studio 2013\Projects\BigPandaHelper\BigPandaHelper\obj\Debug\BigPandaHelper.pdb
